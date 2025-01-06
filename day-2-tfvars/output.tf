@@ -10,3 +10,7 @@ output "ami_id" {
   value = aws_instance.Name.ami
 
 }
+output "region" {
+  value = aws_instance.Name.region
+  
+}
