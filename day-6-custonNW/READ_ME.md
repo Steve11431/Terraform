@@ -1,4 +1,6 @@
 # AWS Infrastructure Resources
+![Terraform Logo](https://www.terraform.io/assets/images/og-image-4a39a42f.png)
+
 
 This repository contains the Terraform configuration for creating and managing AWS infrastructure resources.
 
