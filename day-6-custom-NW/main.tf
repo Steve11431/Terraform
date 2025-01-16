@@ -109,7 +109,7 @@ resource "aws_security_group" "allows_tls" {
     cidr_blocks = ["0.0.0.0/0"]
 
   }
-  # Egress rules (Allow inbound traffic)  
+  # Egress rules (Allow outbound traffic)  
   egress {
     from_port   = 0
     to_port     = 0
